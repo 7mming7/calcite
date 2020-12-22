@@ -20,12 +20,20 @@ limitations under the License.
   <parent>
     <groupId>org.apache.calcite</groupId>
     <artifactId>calcite</artifactId>
-    <version>1.16.0-kylin-4.x-r51</version>
+<<<<<<< HEAD
+    <version>1.16.0-kylin-4.x-r001</version>
+=======
+  <version>1.16.0-kylin-4.x-r17</version>
+>>>>>>> parent of 266be39b5... #13770 fix date cannot compare with string
   </parent>
 
   <artifactId>calcite-cassandra</artifactId>
   <packaging>jar</packaging>
-  <version>1.16.0-kylin-4.x-r51</version>
+<<<<<<< HEAD
+  <version>1.16.0-kylin-4.x-r001</version>
+=======
+<version>1.16.0-kylin-4.x-r17</version>
+>>>>>>> parent of 266be39b5... #13770 fix date cannot compare with string
   <name>Calcite Cassandra</name>
   <description>Cassandra adapter for Calcite</description>
 

@@ -19,13 +19,21 @@ limitations under the License.
   <parent>
     <groupId>org.apache.calcite</groupId>
     <artifactId>calcite</artifactId>
-    <version>1.16.0-kylin-4.x-r51</version>
+<<<<<<< HEAD
+    <version>1.16.0-kylin-4.x-r001</version>
+=======
+  <version>1.16.0-kylin-4.x-r17</version>
+>>>>>>> parent of 266be39b5... #13770 fix date cannot compare with string
   </parent>
 
   <!-- The basics. -->
   <artifactId>calcite-file</artifactId>
   <packaging>jar</packaging>
-  <version>1.16.0-kylin-4.x-r51</version>
+<<<<<<< HEAD
+  <version>1.16.0-kylin-4.x-r001</version>
+=======
+<version>1.16.0-kylin-4.x-r17</version>
+>>>>>>> parent of 266be39b5... #13770 fix date cannot compare with string
   <name>Calcite File</name>
   <description>Calcite provider that reads files and URIs</description>
 
